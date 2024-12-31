@@ -1,0 +1,1 @@
+execute as @s[gamemode=spectator] unless dimension the_end in the_end run tp 0 64 0
