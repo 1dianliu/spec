@@ -13,8 +13,8 @@ Original spectators can teleport other players, press 1 three times to see other
 Regarding dimension teleportation, between the main world and the Nether, normal 1:8 teleportation is possible; entering or leaving the End will teleport to the corresponding dimension at 0 64 0  
 
 ------------------------------------------------------------  
-It can also be used below 1.21, but the author has not tested it.
-There shouldn't be any big problems with using it in multiplayer mode. You can install it on the server.
+It can also be used below 1.21, but the author has not tested it.  
+There shouldn't be any big problems with using it in multiplayer mode. You can install it on the server.  
 Multiplayer can also use `/spectator` [Carpet-Org_Addition](https://github.com/fcsailboat/Carpet-Org-Addition) or MCDR's [gamemode](https://mcdreforged.com/en/plugin/gamemode) plugin, but the data pack still has limitations  
 
 The advantage of the data pack is that it is easy to install and close to the original version; just place it in the datapacks folder under the map folder, whether compressed or not  

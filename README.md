@@ -14,7 +14,7 @@
   
 ------------------------------------------------------------  
 现在1.21以下也可使用，只是作者本人未测试  
-多人模式使用应该也没什么太大问题，可以在服务器里安装
+多人模式使用应该也没什么太大问题，可以在服务器里安装  
 多人也可以用[Carpet-Org_Addition](https://github.com/fcsailboat/Carpet-Org-Addition)中的`/spectat`或者MCDR的[gamemode](https://mcdreforged.com/zh-CN/plugin/gamemode)插件 数据包还是有局限性的  
   
 数据包好处是安装方便、接近原版 只需要放在地图文件夹下的datapacks文件夹里 解不解压都行  
