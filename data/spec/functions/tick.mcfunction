@@ -8,8 +8,11 @@ execute as @a at @s if score @s s matches 1 run function spec:record
 execute as @a at @s if score @s s matches 3 run function spec:back
 execute as @a at @s if score @s s matches 5.. run scoreboard players set @s s 0
 
-execute as @a at @s if score @s tp matches 1.. run function spec:tp
-
+execute as @a at @s if score @s tp matches 1 run function spec:tp
+execute as @a at @s if score @s tp matches 2 run function spec:tp_overworld
+execute as @a at @s if score @s tp matches 3 run function spec:tp_nether
+execute as @a at @s if score @s tp matches 4 run function spec:tp_end
+execute as @a at @s if score @s tp matches 1.. run scoreboard players set @s tp 0
 
 #protection mechanism
 execute at @a[gamemode=spectator] if dimension overworld as @a[y=-129,dy=-20] run tp @s ~ -128 ~
