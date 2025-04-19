@@ -4,5 +4,6 @@
     "tp.spec.choose": "Please select the dimension to teleport to.",
     "tp.spec.overworld": "Overworld",
     "tp.spec.nether": "The Nether",
-    "tp.spec.end": "The End"
+    "tp.spec.end": "The End",
+    "tp.spec.fail":"Please use in spectator mode"
 }

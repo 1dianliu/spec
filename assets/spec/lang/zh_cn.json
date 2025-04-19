@@ -4,5 +4,6 @@
     "tp.spec.choose":"请选择要传送的维度",
     "tp.spec.overworld":"主世界",
     "tp.spec.nether":"下界",
-    "tp.spec.end":"末地"
+    "tp.spec.end":"末地",
+    "tp.spec.fail":"请在旁观者模式下使用"
 }
