@@ -2,6 +2,8 @@
 ### [中文](./README.md) | English  
 Inspired by MCDR's gamemode plugin  
 Author: 1dianliu  DevVersion: 1.21+(Report bugs to me)  
+The data pack is adapted for English. Add it to the resource pack folder and set language to English (US)​​.  
+
 
 ------------------------------------------------------------  
 Enter `/trigger s` to switch to spectator mode, enter again to return to the original location  
